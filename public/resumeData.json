@@ -1,0 +1,99 @@
+{
+  "main": {
+    "name": "MohamedRomih",
+    "occupation": "",
+    "description": "Hey there im mohamed romih , student in menofia universty at computer and information facutly and im at 3rd year, im 20 YO live in El behera city - kafer eldwar , i like the simple things and im not speical at anything in general",
+    "image": "profilepic.jpg",
+    "bio": "Hey there im mohamed romih , student in menofia universty at computer and information facutly and im at 3rd year, im 20 YO live in El behera city - kafer eldwar , i like the simple things and im not speical at anything in general.",
+    "contactmessage": "Here is where you should write your opinion about my page here , please leave a touch :)",
+    "email": "mohamedromih7@gmail.com",
+    "phone": "01205414455",
+    "address": {
+      "street": "(el nafrawy)",
+      "city": "(El behera)",
+      "state": "(Kafr el dwar)",
+      "zip": "(04522)"
+    },
+    
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mohamed.romih.9041",
+        "className": "fa fa-facebook"
+      },
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mohamed-romih-38960b228",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mohamedromih8/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/MohamedRomih",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here is a write-up of my skills",
+    "education": [
+      {
+        "school": "menofia universty",
+        "degree": "still in 3rd year",
+        "graduated": "in 2023 (expected)",
+        "description": "im still student with little experience, ive learned some good things to help me after my collage."
+      }
+     
+    ],
+    
+    
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "0%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "0%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "0"
+      }
+    ]
+  },
+  
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Some One"
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
